@@ -20,3 +20,7 @@
 
 ---
 
+<h3 align="left">Recent Activity:</h3>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
