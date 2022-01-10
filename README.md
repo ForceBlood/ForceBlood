@@ -23,4 +23,5 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#8](https://github.com/botblock/data/pull/8) in [botblock/data](https://github.com/botblock/data)
 <!--END_SECTION:activity-->
