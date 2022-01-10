@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Destiny</h1>
 <h3 align="center">A hobbyist developer that currently does Web, Game and Discord Bot development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forceblood" alt="forceblood" /></a> </p>
-
 - 🔭 I’m currently working on [Botlist.me](https://botlist.me/)
 
 - 🌱 The creator of [Server bot (The first game server information bot of Discord)](https://discord.com/oauth2/authorize?client_id=589901741672103958&scope=bot&permissions=8)
