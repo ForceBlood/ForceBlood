@@ -23,5 +23,5 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#888](https://github.com/dbm-network/mods/pull/888) in [dbm-network/mods](https://github.com/dbm-network/mods)
+1. ❗️ Opened issue [#86](https://github.com/Hexer10/HexTags/issues/86) in [Hexer10/HexTags](https://github.com/Hexer10/HexTags)
 <!--END_SECTION:activity-->
