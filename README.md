@@ -23,5 +23,5 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#86](https://github.com/Hexer10/HexTags/issues/86) in [Hexer10/HexTags](https://github.com/Hexer10/HexTags)
+1. 🗣 Commented on [#1](https://github.com/alexevladgabriel/fastdl-pterodactyl/issues/1) in [alexevladgabriel/fastdl-pterodactyl](https://github.com/alexevladgabriel/fastdl-pterodactyl)
 <!--END_SECTION:activity-->
