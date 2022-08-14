@@ -23,5 +23,5 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/alexevladgabriel/fastdl-pterodactyl/issues/1) in [alexevladgabriel/fastdl-pterodactyl](https://github.com/alexevladgabriel/fastdl-pterodactyl)
+1. 🗣 Commented on [#802](https://github.com/dbm-network/mods/issues/802) in [dbm-network/mods](https://github.com/dbm-network/mods)
 <!--END_SECTION:activity-->
