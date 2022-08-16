@@ -23,5 +23,5 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#802](https://github.com/dbm-network/mods/issues/802) in [dbm-network/mods](https://github.com/dbm-network/mods)
+1. 🗣 Commented on [#19](https://github.com/hermansimensen/eventqueue-fix/issues/19) in [hermansimensen/eventqueue-fix](https://github.com/hermansimensen/eventqueue-fix)
 <!--END_SECTION:activity-->
