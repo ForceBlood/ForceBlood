@@ -22,6 +22,6 @@
 
 <h3 align="left">Recent Activity:</h3>
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/hermansimensen/eventqueue-fix/issues/19) in [hermansimensen/eventqueue-fix](https://github.com/hermansimensen/eventqueue-fix)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
