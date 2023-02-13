@@ -24,12 +24,12 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ForceBlood/Botlist.me-Translations](https://github.com/ForceBlood/Botlist.me-Translations)<br>
-2. 🎉 Merged PR [#1](https://github.com/ForceBlood/Botlist.me-Translations/pull/1) in [ForceBlood/Botlist.me-Translations](https://github.com/ForceBlood/Botlist.me-Translations)<br>
-3. ⬆️ Pushed 1 commit(s) to [ForceBlood/ForceBlood](https://github.com/ForceBlood/ForceBlood)<br>
-4. ⬆️ Pushed 1 commit(s) to [ForceBlood/ForceBlood](https://github.com/ForceBlood/ForceBlood)<br>
-5. ⬆️ Pushed 1 commit(s) to [ForceBlood/ForceBlood](https://github.com/ForceBlood/ForceBlood)<br>
+2. 🎉 Merged PR [#3](https://github.com/ForceBlood/Botlist.me-Translations/pull/3) in [ForceBlood/Botlist.me-Translations](https://github.com/ForceBlood/Botlist.me-Translations)<br>
+3. ⬆️ Pushed 1 commit(s) to [ForceBlood/Botlist.me-Translations](https://github.com/ForceBlood/Botlist.me-Translations)<br>
+4. 🎉 Merged PR [#2](https://github.com/ForceBlood/Botlist.me-Translations/pull/2) in [ForceBlood/Botlist.me-Translations](https://github.com/ForceBlood/Botlist.me-Translations)<br>
+5. ⬆️ Pushed 1 commit(s) to [ForceBlood/Botlist.me-Translations](https://github.com/ForceBlood/Botlist.me-Translations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 13th, 2023, 8:38:21 PM
+Last Updated: Monday, February 13th, 2023, 9:16:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
