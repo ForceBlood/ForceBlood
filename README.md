@@ -23,12 +23,10 @@
 <h3 align="left">Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ForceBlood/Botlist.me-Translations](https://github.com/ForceBlood/Botlist.me-Translations)<br>
-2. 🎉 Merged PR [#4](https://github.com/ForceBlood/Botlist.me-Translations/pull/4) in [ForceBlood/Botlist.me-Translations](https://github.com/ForceBlood/Botlist.me-Translations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 27th, 2024, 7:17:17 AM
+Last Updated: Monday, May 27th, 2024, 7:37:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <picture>
